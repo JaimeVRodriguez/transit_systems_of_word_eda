@@ -14,6 +14,7 @@
 - [Overall](#overall)
     - [Top 5 Countries](#top-5-countries)
     - [Transit Lines Opened per Year](#transit-lines-opened-per-year)
+    - [Track Length vs Number of Track](#track-length--number-of-tracks-correlation)
 - [United States](#united-states)
     - [US Transit Line Counts](#us-transit-line-counts)
     - [US Heatmap](#us-heatmap)
@@ -45,8 +46,10 @@ The further comparison of the top five countries shows when each had station ope
 ### Transit Lines Opened per Year
 ![](images/Transit_lines_opened_per_year.png)
 <br />
-<br />
-<br />
+
+### Track Length & Number of Tracks Correlation
+
+![](images/track_length_number_correlation.png)
 
 ***
 ## United States
@@ -71,6 +74,6 @@ Click this [interactive map](http://127.0.0.1:5500/images/us_heatmap.html) to vi
 <br />
 
 ### New York Data
-As previously identified, New York held the most stations in the United States. Additionaly, it was noted that the United States opened the majority of tracks were opened between the 1875 and 1925.
+As previously identified, New York held the most stations in the United States. Additionaly, it was noted that the United States opened the majority of tracks were opened between the 1875 and 1925. This further highlights the stark buildup during that time period and followed by a tappering of openings.
 
 ![](images/new_york_track_length.png)

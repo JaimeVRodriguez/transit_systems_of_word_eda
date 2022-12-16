@@ -13,6 +13,7 @@
 - [Introduction](#introduction)
 - [Overall](#overall)
 - [Top 5 Countries](#top-5-countries)
+    - [Transit Lines Opened per Year](#transit-lines-opened-per-year)
 - [US Transit Line Counts](#us-transit-line-counts)
 - [US Heatmap](#us-heatmap)
 <br />
@@ -32,14 +33,22 @@ This led us to indetify the [top five](#top-5-countries) countries to see how th
 <br />
 <br />
 
-### **Top 5 Countries**
-
+***
+### Top 5 Countries
+***
+The further comparison of the top five countries shows when each had station openings and how many in that particular year. It is interesting to note that the top country, United States, built a majority of its transportation lines between 1875 and and 1925. Which will be highlighted again in a [New York] analysis. 
 ![](images/top_5.png)
 <br />
+
+### Transit Lines Opened per Year
+![](images/Transit_lines_opened_per_year.png)
+<br />
 <br />
 <br />
 
-### **US Transit Line Counts**
+***
+### US Transit Line Counts
+***
 After indentifying the United States held the most cities, further analysis was conducted on those cities within the United States. What can be immeditaely identified is that the cities withing the United States are large metropolitan cities. Furthermore, it is important to note that there are other cities within the United States that host transportation stations, however the [station](data/stations.csv) data does not hold information for those cities not listed. This is important to note this is one limitation of this data set.
 
 ![](images/us_transit_lines.png)
@@ -49,9 +58,9 @@ After indentifying the United States held the most cities, further analysis was 
 ### US Heatmap
 Additinally cities within the United States that host a transportation station are represented below with the a provides a visual representation of the density of the stations within those cities.
 
-### **Transit Lines Opened per Year**
+
 This image depicts the total number of transit lines that are opened per year for the top five countries.
-![](images/Transit_lines_opened_per_year.png)
+
 
 
 ![](images/us_heatmap.png) 

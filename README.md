@@ -49,7 +49,9 @@ After indentifying the United States held the most cities, further analysis was 
 #US Heatmap**
 Additinally cities within the United States that host a transportation station are represented below with the a provides a visual representation of the density of the stations within those cities.
 
-
+### **Transit Lines Opened per Year**
+This image depicts the total number of transit lines that are opened per year for the top five countries.
+![](images/Transit_lines_opened_per_year.png)
 
 
 ![](images/us_heatmap.png) 

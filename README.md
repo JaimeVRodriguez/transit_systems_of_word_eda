@@ -40,7 +40,7 @@ This led us to indetify the [top five](#top-5-countries) countries to see how th
 <br />
 
 ### **US Transit Line Counts**
-Transit Lines for cities in the UNited States.
+After indentifying the United States held the most cities, further analysis was conducted on those cities within the United States. What can be immeditaely identified is that the cities withing the United States are large metropolitan cities. Furthermore, it is important to note that there are other cities within the United States that host transportation stations, however the [station](data/stations.csv) data does not hold information for those cities not listed. This is important to note this is one limitation of this data set.
 
 ![](images/us_transit_lines.png)
 <br />

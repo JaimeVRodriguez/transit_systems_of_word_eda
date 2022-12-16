@@ -49,6 +49,7 @@ The further comparison of the top five countries shows when each had station ope
 
 ### Track Length & Number of Tracks Correlation
 This scatter plot was used to assess whether there was a correlation between the average track length in every city and the total number of tracks. We expected to find a negative correlation indicating that cities with more tracks would have a shorter track length on average. However, the data showed no significant correlation between these two data points.
+
 ![](images/track_length_number_correlation.png)
 
 ***

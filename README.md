@@ -12,7 +12,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Overall](#overall)
-- [Spread](#spread)
+- [Top 5 Countries](#top-5-countries)
 - [US Transit Line Counts](#us-transit-line-counts)
 - [US Heatmap](#us-heatmap)
 <br />
@@ -25,17 +25,16 @@ This dataset, which can be found [here](https://www.kaggle.com/datasets/cityline
 <br />
 
 ### **Overall**
-The data mentioned above informs people of several different factors pertaining to transportation lines around the world. An initial glimpse of the data, allowed us to indentify which countries in the world had the most cities with transportation stations. 
+The data mentioned above informs people of several different factors pertaining to transportation lines around the world. An initial glimpse of the data, allowed us to indentify how the data was spread amongst the countries in the [cities]("data/cities.csv) data. As you can see, the United States has an overwhelming amount of cities with stations compared to the rest of the countries within the data.<br />
+This led us to indetify the [top five](#top-5-countries) countries to see how the United States compared.
+![](images/iqr_plot.png)
+<br />
+<br />
+<br />
+
+### **Top 5 Countries**
 
 ![](images/top_5.png)
-<br />
-<br />
-<br />
-
-### **Spread**
-Interquartile ranges for all data
-
-![](images/iqr_plot.png)
 <br />
 <br />
 <br />

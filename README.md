@@ -35,3 +35,7 @@ Interquartile ranges for all data
 
 ![](images/iqr_plot.png)
 
+### **US Transit Line Counts**
+Transit Lines for cities in the UNited States.
+
+![](images/US_transit_lines.png)

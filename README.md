@@ -19,17 +19,19 @@
 <br />
 <br />
 
+***
 ### **Introduction**
+***
 This dataset, which can be found [here](https://www.kaggle.com/datasets/citylines/city-lines), includes transportation line data from a number of cities from around the world including London, Berlin, Mexico City, Barcelona, Washington D.C., and others covering many thousands of kilometers of lines.
 <br />
 <br />
-<br />
 
+***
 ### **Overall**
+***
 The data mentioned above informs people of several different factors pertaining to transportation lines around the world. An initial glimpse of the data, allowed us to indentify how the data was spread amongst the countries in the [cities]("data/cities.csv) data. As you can see, the United States has an overwhelming amount of cities with stations compared to the rest of the countries within the data.<br />
 This led us to indetify the [top five](#top-5-countries) countries to see how the United States compared.
 ![](images/iqr_plot.png)
-<br />
 <br />
 <br />
 

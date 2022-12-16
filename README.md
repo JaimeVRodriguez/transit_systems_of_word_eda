@@ -14,7 +14,7 @@
 - [Overall](#overall)
     - [Top 5 Countries](#top-5-countries)
     - [Transit Lines Opened per Year](#transit-lines-opened-per-year)
-    - [Track Length vs Number of Track](#track-length--number-of-tracks-correlation)
+    - [Average Track Length Comparison by Country](#average-track-length-comparison-by-country)
 - [United States](#united-states)
     - [US Transit Line Counts](#us-transit-line-counts)
     - [US Heatmap](#us-heatmap)

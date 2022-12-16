@@ -46,9 +46,11 @@ After indentifying the United States held the most cities, further analysis was 
 <br />
 <br />
 <br />
+#US Heatmap**
+Additinally cities within the United States that host a transportation station are represented below with the a provides a visual representation of the density of the stations within those cities.
 
-### **US Heatmap**
-The following is a graphical representation of the stations within the United States.
+
+
 
 ![](images/us_heatmap.png) 
 
